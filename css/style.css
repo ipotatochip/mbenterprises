@@ -1,0 +1,13 @@
+/*MB Enterprises Page Style Sheet*/
+
+
+
+/*********************/
+/*    04. Header     */
+/*********************/
+
+.header {
+	background:url('/images/header-background.jpg') center  no-repeat;
+	background-size: cover;
+}
+
