@@ -5896,19 +5896,19 @@ textarea.form-control-lg {
 .carousel-control-prev,
 .carousel-control-next {
   position: absolute;
-  top: 0;
+  top: 70%;
   bottom: 0;
   z-index: 1;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 15%;
-  padding: 0;
+  width: 25%;
+  padding: 5px;
   color: #fff;
   text-align: center;
   background: none;
   border: 0;
-  opacity: 0.5;
+  opacity: 0.6;
   transition: opacity 0.15s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5937,8 +5937,8 @@ textarea.form-control-lg {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: inline-block;
-  width: 2rem;
-  height: 2rem;
+  width: 3rem;
+  height: 3rem;
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100% 100%;
