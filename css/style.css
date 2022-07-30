@@ -2,7 +2,96 @@
 
 
 /*********************/
-/*    02. Nav Bar     */
+/*    00. Colors     */
+/*********************/
+
+/* https://coolors.co/ */
+
+
+/*
+     Home Section
+Quinacridrone Magenta:#8F4060;
+Silver Pink:#B59EA1;
+Lavender Blush:#B59EA1;
+Gainsboro:#DEE2EB;
+Persian Plum:#5B151D;
+
+    Nav Bar
+    Gainsboro:#DDDDDD;
+    Cultured:f2f2f2;
+
+
+
+
+
+    Footer Section
+Cultured:#ECEFF1;
+Jade:04AA6D;
+Majorelle Blue:#7C4DFF;
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+/*********************/
+/*    01. Fonts      */
+/*********************/
+
+
+
+
+
+
+
+
+
+
+/*********************/
+/*   02. Pre Loader  */
+/*********************/
+
+/* https://icons8.com/ */
+
+#preloader{
+  background-color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99999999;
+}
+
+#preloader_run{
+  background-image: url("/images/preloader.gif");
+  background-repeat: no-repeat;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  bottom: 0;
+  left: 50%;
+  margin-top: -40px;
+  margin-left: -40px;
+
+}
+
+
+/*********************/
+/*    03. Nav Bar     */
 /*********************/
 
 
@@ -50,7 +139,7 @@
 
 
 /*********************/
-/*    04. Header     */
+/* 04. Header (Home) */
 /*********************/
 
 .header {
