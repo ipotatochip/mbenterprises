@@ -100,7 +100,7 @@ Majorelle Blue:#7C4DFF;
     background-color: rgb(0, 0, 0);
     overflow: hidden;
 	  color: rgb(255, 255, 255);
-	  font-size: 40px;
+	  font-size: 38px;
     
 }
 
@@ -146,4 +146,53 @@ Majorelle Blue:#7C4DFF;
 	background:url('/images/header-background.jpg') center  no-repeat;
 	background-size: cover;
 }
+#header {
+	background:url('/images/header-background.jpg') center  no-repeat;
+	background-size: cover;
+}
 
+#hbutton{
+  color: white;
+  background-color: #660022; 
+  border: none; 
+  border-radius: 4px; 
+  font-size: 18px; 
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+/*********************/
+/*  05.    Footer    */
+/*********************/
+
+#footer1{
+  background-color: #ECEFF1;
+}
+
+#smfstyle{
+ background-color: #04AA6D;
+}
+.hr-footer{
+  width: 60px; 
+  background-color: #7c4dff; 
+  height: 2px
+}
+#cpright{
+  background-color: black; 
+  color: white;
+}
+#cpfname{
+  text-decoration: none;
+  color: white;
+}
+#cpfproject{
+  color:#04AA6D;
+  text-decoration: none;
+}
